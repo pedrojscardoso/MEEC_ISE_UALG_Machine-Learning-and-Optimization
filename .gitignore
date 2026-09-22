@@ -2,6 +2,7 @@
 
 .DS_Store
 .venv/
+2-ML/data/aclImdb_full_dataset.zip
 2-ML/.ipynb_checkpoints/*
 2-ML/Exercises/.ipynb_checkpoints
 2-ML/Exercises/cache
