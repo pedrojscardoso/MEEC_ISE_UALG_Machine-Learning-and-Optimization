@@ -1,6 +1,7 @@
 /to_be_deleted_in_the_end
 
 .DS_Store
+.venv/
 2-ML/.ipynb_checkpoints/*
 2-ML/Exercises/.ipynb_checkpoints
 2-ML/Exercises/cache
